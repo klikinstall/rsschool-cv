@@ -2,10 +2,10 @@
 ![My photo](/images/avatarsm.jpg)
 
 ## __Contacts__
-Phone number: +79523455020
-E-mail: klikinstall@rambler.ru
-VK: https://vk.com/andmaksutenko
-GitHub: [klikinstall](https://github.com/klikinstall)
+Phone number: +79523455020<br>
+E-mail: klikinstall@rambler.ru<br>
+VK: https://vk.com/andmaksutenko<br>
+GitHub: [klikinstall](https://github.com/klikinstall)<br>
 Discord: Andrew Mak#2767
 ***
 
