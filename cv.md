@@ -1,7 +1,7 @@
 Maxyutenko Andrey
 
 Contacts
-Тел: +79523455020
+Phone number: +79523455020
 E-mail: klikinstall@rambler.ru
 VK: https://vk.com/andmaksutenko
 GitHub: klikinstall
