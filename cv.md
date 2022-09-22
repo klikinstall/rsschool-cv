@@ -1,5 +1,5 @@
 # Maxyutenko Andrey
-![My photo](/images/avatar.jpg)
+![My photo](/images/avatarsm.jpg)
 
 ## __Contacts__
 Phone number: +79523455020
