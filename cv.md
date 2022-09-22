@@ -1,5 +1,6 @@
 #Maxyutenko Andrey
 
+
 __Contacts__
 Phone number: +79523455020
 E-mail: klikinstall@rambler.ru
@@ -20,4 +21,14 @@ __Skills__
 - Git/GitHub
 - Photoshop/Avocode/Figma
 - BEM
+***
+
+__Code Example__
+```
+function factorial(n) {
+  return n ? n * factorial(n - 1) : 1;
+}
+
+alert( factorial(5) );
+```
 ***
