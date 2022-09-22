@@ -5,7 +5,7 @@
 Phone number: +79523455020
 E-mail: klikinstall@rambler.ru
 VK: https://vk.com/andmaksutenko
-GitHub: klikinstall
+GitHub: [klikinstall](https://github.com/klikinstall)
 Discord: Andrew Mak#2767
 ***
 
