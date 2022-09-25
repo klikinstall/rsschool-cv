@@ -1,1 +1,1 @@
-https://klikinstall.github.io/rsschool-cv/cv
+https://klikinstall.github.io/rsschool-cv/
